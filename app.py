@@ -369,7 +369,7 @@ ADMIN_HTML = r"""<!DOCTYPE html>
 def index():
     return Response(INDEX_HTML, mimetype="text/html")
 
-@app.route("/admin")
+@app.route("/admmmin")
 def admin():
     return Response(ADMIN_HTML, mimetype="text/html")
 
