@@ -110,7 +110,6 @@ INDEX_HTML = r"""<!DOCTYPE html>
 <body>
 <header>
   <div class="brand"><div class="dot"></div>University Clearinghouse</div>
-  <nav><a href="/admin">Admin Panel →</a></nav>
 </header>
 <div class="hero">
   <h1>Specialty Track Selection</h1>
